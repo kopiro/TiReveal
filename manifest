@@ -2,12 +2,12 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.2
+version: 1.0
 apiversion: 2
 description: Titanium Module for Reveal.app
 author: Huy Hong
-license: 
-copyright: 
+license:
+copyright:
 
 
 # these should not be edited
